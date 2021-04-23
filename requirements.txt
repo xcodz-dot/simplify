@@ -1,0 +1,6 @@
+python-minifier>=2.4.1
+pygments>=2.8.1
+prompt_toolkit>=3.0.18
+css-html-js-minify>=2.5.5
+xmlformatter>=0.2.2
+htmlmin>=0.1.12
