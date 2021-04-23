@@ -5,6 +5,13 @@ It comes packed with the following tools:
 * minifier
 * show (to show file content in command line with syntax highlighting)
 
+### Installation
+to install simplify:
+
+```commandline
+pip install -U pysimplify
+```
+
 ## Minifier
 
 Minifier contains the support for the following languages and data formats

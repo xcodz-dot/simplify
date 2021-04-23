@@ -1,9 +1,9 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
-    name='simplify',
+    name='pysimplify',
     version='1.0.0',
-    packages=['test', 'simplify'],
+    packages=find_packages(),
     url='https://github.com/xcodz-dot/simplify',
     license='MIT License',
     author='xcodz',
